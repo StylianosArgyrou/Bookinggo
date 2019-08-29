@@ -2,7 +2,7 @@
 
 Use: 
 
-  python3 <filename> <latitude1>,<latitude2>,<longitude1>,<longitude2> <minimum passengers> <maximum passengers>
+  python3 filename latitude1,latitude2,longitude1,longitude2 minimumpassengers maximumpassengers
   
 Example:
 
